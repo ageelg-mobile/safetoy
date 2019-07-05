@@ -170,10 +170,10 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Stack(
           children: [
             Positioned(
-              top: 350,
-              right: 22,
-           //    top: 425,
-           //   right: 15,
+            //  top: 350,
+            //  right: 22,
+              top: 425,
+              right: 15,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
